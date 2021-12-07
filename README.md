@@ -1,2 +1,2 @@
-# First-C-program
+# First-C++-program
 This is my First C++ project
